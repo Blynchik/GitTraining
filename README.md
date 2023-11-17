@@ -1,1 +1,2 @@
 # GitTraining
+## Hello, world!
